@@ -41,7 +41,7 @@ Resources:
         CreateElasticsearchServiceLinkedRole: 'Yes' # DO NOT CHANGE
         SourceDeploymentType: 'CodeCommit' # DO NOT CHANGE
         GitHubRepo: 'retail-demo-store' # N/A SO DO NOT CHANGE
-        GitHubBranch: 'master' # N/A SO DO NOT CHANGE
+        GitHubBranch: 'main' # N/A SO DO NOT CHANGE
         GitHubToken: 'dummy' # N/A SO DO NOT CHANGE
         GitHubUser: 'dummy' # N/A SO DO NOT CHANGE
         PreIndexElasticsearch: 'No' # Change to 'Yes' if you don't want customers to have to do ES workshop

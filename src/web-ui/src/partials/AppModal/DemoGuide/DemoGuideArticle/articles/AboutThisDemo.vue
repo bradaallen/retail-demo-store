@@ -40,7 +40,7 @@
         is a single page application built using responsive web design frameworks and techniques, producing a native
         app-like experience tailored to the user's device. See the
         <a
-          href="https://github.com/aws-samples/retail-demo-store/tree/master/workshop"
+          href="https://github.com/aws-samples/retail-demo-store/tree/main/workshop"
           target="_blank"
           rel="noreferrer noopener"
           >workshops page</a

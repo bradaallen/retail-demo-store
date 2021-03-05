@@ -45,7 +45,7 @@ Parameters:
 
   GitHubBranch:
     Type: String
-    Default: master
+    Default: main
 
   GitHubToken:
     Type: String
@@ -440,7 +440,7 @@ Resources:
                 Provider: CodeCommit
               Configuration:
                 RepositoryName: retaildemostore-src
-                BranchName: master
+                BranchName: main
                 PollForSourceChanges: 'true'
               OutputArtifacts:
                 - Name: App
